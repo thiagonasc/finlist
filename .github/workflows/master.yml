@@ -3,16 +3,15 @@ on:
     branches:
       - master
 name: 🚀 Deploy website on push
+  env:
+    JEKYLL_ENV: production
 jobs:
   web-deploy:
     name: 🎉 Deploy
     runs-on: ubuntu-latest
     steps:
       - name: 🚚 Get latest code
-        uses: actions/checkout@v2
-      
-      - run:  JEKYLL_ENV=production bundle exec jekyll build
-
+        uses: actions/checkout@v3
       - name: FTP Deploy
         uses: SamKirkland/FTP-Deploy-Action@4.3.0
         with:
