@@ -1,42 +1,36 @@
-name: 🚀 Deploy website on push
-
 on:
   push:
     branches:
       - master
 
-# web-deploy:
-#   name: 🎉 Deploy
-#   runs-on: ubuntu-latest
-#   steps:
-#     - name: 🔨 Build Project
-#       run:
-#         JEKYLL_ENV=production bundle exec jekyll build
-#     - name: 🚚 Get latest code
-#       uses: actions/checkout@v3
-#     - name: FTP Deploy
-#       uses: SamKirkland/FTP-Deploy-Action@4.3.0
-#       with:
-#         server:     ${{ secrets.ftp_host }}
-#         username:   ${{ secrets.ftp_user }}
-#         password:   ${{ secrets.ftp_password }}
-#         local-dir:  ./_site/
+web-deploy:
+  name: 🎉 Deploy
+  runs-on: ubuntu-latest
+  steps:
+    
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v3
 
-jobs:
-  jekyll:
-    runs-on: ubuntu-latest
+    - name: Cache gems
+      uses: actions/cache@v1
+       with:
+        path: vendor/gems
+        key: ${{ runner.os }}-build-${{ hashFiles('**/Gemfile.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-build-
+          ${{ runner.os }}-
 
-    steps:
-      - uses: actions/checkout@v3
-
-      - uses: helaili/jekyll-action@v2
+    - name: 🔨 Build Project
+      uses: DavidS/jekyll-deploy@
         with:
-          build_only: true
+          build-only: true
+        env:
           JEKYLL_ENV: production
-
-      - uses: SamKirkland/FTP-Deploy-Action@4.3.0
-        with:
-          server:     ${{ secrets.ftp_host }}
-          username:   ${{ secrets.ftp_user }}
-          password:   ${{ secrets.ftp_password }}
-          local-dir:  ./_site/
+    
+    - name: FTP Deploy
+      uses: SamKirkland/FTP-Deploy-Action@4.3.0
+      with:
+        server:     ${{ secrets.ftp_host }}
+        username:   ${{ secrets.ftp_user }}
+        password:   ${{ secrets.ftp_password }}
+        local-dir:  ./_site/
