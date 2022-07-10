@@ -6,6 +6,9 @@ name: 🚀 Deploy website on push
   run: JEKYLL_ENV=production bundle exec jekyll build
 
 jobs:
+  build:
+    - name: Build Site with Jekyll.
+      run: JEKYLL_ENV=production bundle exec jekyll build
   web-deploy:
     name: 🎉 Deploy
     runs-on: ubuntu-latest
