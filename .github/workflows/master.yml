@@ -22,10 +22,10 @@ web-deploy:
 
     - name: 🔨 Build Project
       uses: DavidS/jekyll-deploy@
-        with:
-          build-only: true
-        env:
-          JEKYLL_ENV: production
+      with:
+        build-only: true
+      env:
+        JEKYLL_ENV: production
     
     - name: FTP Deploy
       uses: SamKirkland/FTP-Deploy-Action@4.3.0
