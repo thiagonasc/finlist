@@ -23,13 +23,16 @@ on:
 #         local-dir:  ./_site/
 
 jobs:
-  jekyll:
+  deploy:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
+
       - uses: helaili/jekyll-action@v2
         with:
-          jekyll_env: 'production'
+          JEKYLL_ENV: production
+
       - uses: SamKirkland/FTP-Deploy-Action@4.3.0
         with:
           server:     ${{ secrets.ftp_host }}
