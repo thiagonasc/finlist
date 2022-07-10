@@ -8,11 +8,13 @@ jobs:
     name: 🎉 Deploy
     runs-on: ubuntu-latest
     steps:
-      - name: 🔨 Build Project
-        run:
-          JEKYLL_ENV=production jekyll build
+      
       - name: 🚚 Get latest code
         uses: actions/checkout@v3
+      
+      - name: Build
+        uses: jerryjvl/jekyll-build-action@v1
+
       - name: FTP Deploy
         uses: SamKirkland/FTP-Deploy-Action@4.3.0
         with:
