@@ -37,8 +37,8 @@ permalink:  /influenciadores/
 <h3 class="display-6 mt-5 mb-4">Lista de influenciadores</h3>
 
 <ul class="list-group">
-{% assign pos = 1 %}
-{% for influenciador in site.data.influenciadores limit:10 %}
+  {% assign pos = 1 %}
+  {% for influenciador in site.data.influenciadores limit:10 %}
   <li class="list-group-item d-flex flex-wrap gap-3 py-4 align-items-center">
     <h6 class="opacity-50">#{{ pos }}</h6>
     <img src="{{site.baseurl}}/assets/imgs/influenciadores/{{ influenciador.instagram.profile }}.jpg" alt="profile" width="48" height="48" class="rounded-circle flex-shrink-0" alt="Imagem de perfil - {{ influenciador.name }}">
@@ -47,10 +47,9 @@ permalink:  /influenciadores/
       <p class="mb-0 opacity-75">@{{ influenciador.instagram.profile }}</p>
     </div>
     <small class="lh-1 me-2 d-none d-lg-block"><b>{{ influenciador.instagram.followers }}</b><br>seguidores</small>
-    <a class="btn btn-outline-primary stretched-link" href="http://www.instagram.com/{{ influenciador.instagram.profile }}" target="_blank" role="button"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
+    <a class="btn btn-outline-primary d-lg-none stretched-link" href="http://www.instagram.com/{{ influenciador.instagram.profile }}" target="_blank" role="button"><i class="fab fa-instagram fa-lg"></i></a>
+      <a class="btn btn-outline-primary d-none d-lg-block stretched-link" href="http://www.instagram.com/{{ influenciador.instagram.profile }}" target="_blank" role="button"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
   </li>
-{% assign pos = pos | plus:1 %}
-{% endfor %}
+  {% assign pos = pos | plus:1 %}
+  {% endfor %}
 </ul>
-
-<br><small class="text-muted">Última atualização: 09 de julho de 2022</small>
