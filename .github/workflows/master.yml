@@ -19,13 +19,6 @@ web-deploy:
         restore-keys: |
           ${{ runner.os }}-build-
           ${{ runner.os }}-
-
-    - name: 🔨 Build Project
-      uses: DavidS/jekyll-deploy@master
-      with:
-        build-only: true
-      env:
-        JEKYLL_ENV: production
     
     - name: FTP Deploy
       uses: SamKirkland/FTP-Deploy-Action@4.3.0
@@ -34,5 +27,3 @@ web-deploy:
         username:   ${{ secrets.ftp_user }}
         password:   ${{ secrets.ftp_password }}
         local-dir:  ./_site/
-      env:
-        JEKYLL_ENV: production
