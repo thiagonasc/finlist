@@ -1,11 +1,11 @@
-- name:				"Carol"
-  lastname:			"Dias"
+- name:				        "Carol"
+  lastname:	  	      "Dias"
   instagram:
-    profile:		"caroldias"
-    followers:		"6.6M"
-    followers-full:	"6.652.568"
+    profile:		      "caroldias"
+    followers:        "6.6M"
+    followers-full:	  "6.652.568"
 
-- name:				"Thiago"
+- name:				  "Thiago"
   lastname:			"Nigro"
   instagram:
     profile:		"thiago.nigro"
@@ -61,9 +61,18 @@
     followers:		"603K"
     followers-full:	"603.787"
 
+- name:				"Hulisses"
+  lastname:			"Dias"
+  instagram:
+    profile:		"tiohuli"
+    followers:		"558k"
+    followers-full:	"558.976"
+
 - name:				"Nathália"
   lastname:			"Rodrigues"
   instagram:
     profile:		"nathfinancas"
     followers:		"457K"
     followers-full:	"457.160"
+
+# https://www.instadp.com/instagram-tools/full-size-downloader/tiohuli

@@ -38,7 +38,7 @@ permalink:  /influenciadores/
 
 <ul class="list-group">
 {% assign pos = 1 %}
-{% for influenciador in site.data.influenciadores %}
+{% for influenciador in site.data.influenciadores limit:10 %}
   <li class="list-group-item d-flex gap-3 py-4 align-items-center">
     <h6 class="opacity-50">#{{ pos }}</h6>
     <img src="{{site.baseurl}}/assets/imgs/influenciadores/{{ influenciador.instagram.profile }}.jpg" alt="profile" width="48" height="48" class="rounded-circle flex-shrink-0" alt="Imagem de perfil - {{ influenciador.name }}">
