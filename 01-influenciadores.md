@@ -17,7 +17,7 @@ permalink:  /influenciadores/
   {% for influenciador in site.data.influenciadores limit:5 %}
   <div class="col d-flex">
     <div class="card card-body">
-      <img class="rounded-circle mb-3 foto" src="{{site.baseurl}}/assets/imgs/influenciadores/{{ influenciador.instagram.profile }}.jpg">
+      <img class="rounded-circle mb-3 foto" src="{{site.baseurl}}/assets/imgs/influenciadores/{{ influenciador.instagram.profile }}.jpg" alt="Imagem de perfil - {{ influenciador.name }}">
       <h5 class="card-title">{{ influenciador.name }} {{ influenciador.lastname }}</h5>
       <h6 class="card-subtitle mb-2 text-muted">@{{ influenciador.instagram.profile }}</h6>
       <p class="card-text">
@@ -41,12 +41,12 @@ permalink:  /influenciadores/
 {% for influenciador in site.data.influenciadores %}
   <li class="list-group-item d-flex gap-3 py-4 align-items-center">
     <h6 class="opacity-50">#{{ pos }}</h6>
-    <img src="{{site.baseurl}}/assets/imgs/influenciadores/{{ influenciador.instagram.profile }}.jpg" alt="profile" width="48" height="48" class="rounded-circle flex-shrink-0">
+    <img src="{{site.baseurl}}/assets/imgs/influenciadores/{{ influenciador.instagram.profile }}.jpg" alt="profile" width="48" height="48" class="rounded-circle flex-shrink-0" alt="Imagem de perfil - {{ influenciador.name }}">
     <div class="flex-fill">
       <h6 class="mb-0">{{ influenciador.name }} {{ influenciador.lastname }}</h6>
       <p class="mb-0 opacity-75">@{{ influenciador.instagram.profile }}</p>
     </div>
-    <small class="lh-1"><b>{{ influenciador.instagram.followers }}</b><br>seguidores</small>
+    <small class="lh-1 me-2"><b>{{ influenciador.instagram.followers }}</b><br>seguidores</small>
     <a class="btn btn-outline-primary stretched-link" href="http://www.instagram.com/{{ influenciador.instagram.profile }}" target="_blank" role="button"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
   </li>
 {% assign pos = pos | plus:1 %}
