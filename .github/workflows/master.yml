@@ -5,19 +5,34 @@ on:
     branches:
       - master
 
-web-deploy:
-  name: 🎉 Deploy
-  runs-on: ubuntu-latest
-  steps:
-    - name: 🔨 Build Project
-      run:
-        JEKYLL_ENV=production bundle exec jekyll build
-    - name: 🚚 Get latest code
-      uses: actions/checkout@v3
-    - name: FTP Deploy
-      uses: SamKirkland/FTP-Deploy-Action@4.3.0
-      with:
-        server:     ${{ secrets.ftp_host }}
-        username:   ${{ secrets.ftp_user }}
-        password:   ${{ secrets.ftp_password }}
-        local-dir:  ./_site/
+# web-deploy:
+#   name: 🎉 Deploy
+#   runs-on: ubuntu-latest
+#   steps:
+#     - name: 🔨 Build Project
+#       run:
+#         JEKYLL_ENV=production bundle exec jekyll build
+#     - name: 🚚 Get latest code
+#       uses: actions/checkout@v3
+#     - name: FTP Deploy
+#       uses: SamKirkland/FTP-Deploy-Action@4.3.0
+#       with:
+#         server:     ${{ secrets.ftp_host }}
+#         username:   ${{ secrets.ftp_user }}
+#         password:   ${{ secrets.ftp_password }}
+#         local-dir:  ./_site/
+
+jobs:
+  jekyll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: helaili/jekyll-action@v2
+        with:
+          jekyll_env: 'production'
+      - uses: actions/checkout@v3
+      - uses: SamKirkland/FTP-Deploy-Action@4.3.0
+        with:
+          server:     ${{ secrets.ftp_host }}
+          username:   ${{ secrets.ftp_user }}
+          password:   ${{ secrets.ftp_password }}
+          local-dir:  ./_site/
