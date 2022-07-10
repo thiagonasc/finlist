@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  {% include header.html %}
+  <body>
+
+    {% include navbar.html %}
+
+    <main class="container">
+      {{ content }}
+    </main>
+
+    <footer class="container">
+      {% include footer.html %}
+    </footer>
+
+    {% include modals.html %}
+    
+    <script src="{{ "/assets/js/bootstrap.bundle.min.js" | relative_url }}"></script>
+
+  </body>
+</html>

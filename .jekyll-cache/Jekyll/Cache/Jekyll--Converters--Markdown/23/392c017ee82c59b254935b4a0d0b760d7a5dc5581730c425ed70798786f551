@@ -1,0 +1,197 @@
+I"�%<div class="profileiner my-5">
+  <div class="text-center mx-lg-auto mb-9">
+    <h1 class="display-5 mb-4">Os maiores influenciadores de finanças em um só lugar!</h1>
+    <p class="lead">Investimos nosso tempo para que você possa investir melhor! <br />Encontre aqui os maiores influenciadores digitais de finanças da atualidade no Instagram.</p>
+  </div>
+</div>
+
+<!-- TOP 5 -->
+<h3 class="display-6 mt-5 mb-4">Top 5 mais seguidos no Instagram</h3>
+<div class="row row-cols-1 row-cols-md-5 g-3">
+  
+  <div class="col d-flex">
+    <div class="card card-body">
+      <img class="rounded-circle mb-3 foto" src="/assets/imgs/influenciadores/caroldias.jpg" />
+      <h5 class="card-title">Carol Dias</h5>
+      <h6 class="card-subtitle mb-2 text-muted">@caroldias</h6>
+      <p class="card-text"><a class="btn btn-outline-primary stretched-link" href="http://www.instagram.com/caroldias" target="_blank" role="button">
+          <i class="fab fa-instagram fa-lg"></i> Instagram
+        </a></p>
+    </div>
+  </div>
+  
+  <div class="col d-flex">
+    <div class="card card-body">
+      <img class="rounded-circle mb-3 foto" src="/assets/imgs/influenciadores/thiago.nigro.jpg" />
+      <h5 class="card-title">Thiago Nigro</h5>
+      <h6 class="card-subtitle mb-2 text-muted">@thiago.nigro</h6>
+      <p class="card-text"><a class="btn btn-outline-primary stretched-link" href="http://www.instagram.com/thiago.nigro" target="_blank" role="button">
+          <i class="fab fa-instagram fa-lg"></i> Instagram
+        </a></p>
+    </div>
+  </div>
+  
+  <div class="col d-flex">
+    <div class="card card-body">
+      <img class="rounded-circle mb-3 foto" src="/assets/imgs/influenciadores/nathaliaarcuri.jpg" />
+      <h5 class="card-title">Nathalia Arcuri</h5>
+      <h6 class="card-subtitle mb-2 text-muted">@nathaliaarcuri</h6>
+      <p class="card-text"><a class="btn btn-outline-primary stretched-link" href="http://www.instagram.com/nathaliaarcuri" target="_blank" role="button">
+          <i class="fab fa-instagram fa-lg"></i> Instagram
+        </a></p>
+    </div>
+  </div>
+  
+  <div class="col d-flex">
+    <div class="card card-body">
+      <img class="rounded-circle mb-3 foto" src="/assets/imgs/influenciadores/bruno_perini.jpg" />
+      <h5 class="card-title">Bruno Perini</h5>
+      <h6 class="card-subtitle mb-2 text-muted">@bruno_perini</h6>
+      <p class="card-text"><a class="btn btn-outline-primary stretched-link" href="http://www.instagram.com/bruno_perini" target="_blank" role="button">
+          <i class="fab fa-instagram fa-lg"></i> Instagram
+        </a></p>
+    </div>
+  </div>
+  
+  <div class="col d-flex">
+    <div class="card card-body">
+      <img class="rounded-circle mb-3 foto" src="/assets/imgs/influenciadores/thiagogreis.jpg" />
+      <h5 class="card-title">Thiago Reis</h5>
+      <h6 class="card-subtitle mb-2 text-muted">@thiagogreis</h6>
+      <p class="card-text"><a class="btn btn-outline-primary stretched-link" href="http://www.instagram.com/thiagogreis" target="_blank" role="button">
+          <i class="fab fa-instagram fa-lg"></i> Instagram
+        </a></p>
+    </div>
+  </div>
+  
+</div>
+
+<h3 class="display-6 mt-5 mb-4">Lista de influenciadores</h3>
+
+<ul class="list-group">
+
+
+  <li class="list-group-item d-flex gap-3 py-4 align-items-center">
+    <h6 class="opacity-50">#1</h6>
+    <img src="/assets/imgs/influenciadores/caroldias.jpg" alt="profile" width="48" height="48" class="rounded-circle flex-shrink-0" />
+    <div class="flex-fill">
+      <h6 class="mb-0">Carol Dias</h6>
+      <p class="mb-0 opacity-75">@caroldias</p>
+    </div>
+    <small class="lh-1"><b>6.652.568</b><br />seguidores</small>
+    <a class="btn btn-outline-primary stretched-link" href="http://www.instagram.com/caroldias" target="_blank" role="button"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
+  </li>
+
+
+  <li class="list-group-item d-flex gap-3 py-4 align-items-center">
+    <h6 class="opacity-50">#2</h6>
+    <img src="/assets/imgs/influenciadores/thiago.nigro.jpg" alt="profile" width="48" height="48" class="rounded-circle flex-shrink-0" />
+    <div class="flex-fill">
+      <h6 class="mb-0">Thiago Nigro</h6>
+      <p class="mb-0 opacity-75">@thiago.nigro</p>
+    </div>
+    <small class="lh-1"><b>6.488.097</b><br />seguidores</small>
+    <a class="btn btn-outline-primary stretched-link" href="http://www.instagram.com/thiago.nigro" target="_blank" role="button"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
+  </li>
+
+
+  <li class="list-group-item d-flex gap-3 py-4 align-items-center">
+    <h6 class="opacity-50">#3</h6>
+    <img src="/assets/imgs/influenciadores/nathaliaarcuri.jpg" alt="profile" width="48" height="48" class="rounded-circle flex-shrink-0" />
+    <div class="flex-fill">
+      <h6 class="mb-0">Nathalia Arcuri</h6>
+      <p class="mb-0 opacity-75">@nathaliaarcuri</p>
+    </div>
+    <small class="lh-1"><b>3.498.979</b><br />seguidores</small>
+    <a class="btn btn-outline-primary stretched-link" href="http://www.instagram.com/nathaliaarcuri" target="_blank" role="button"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
+  </li>
+
+
+  <li class="list-group-item d-flex gap-3 py-4 align-items-center">
+    <h6 class="opacity-50">#4</h6>
+    <img src="/assets/imgs/influenciadores/bruno_perini.jpg" alt="profile" width="48" height="48" class="rounded-circle flex-shrink-0" />
+    <div class="flex-fill">
+      <h6 class="mb-0">Bruno Perini</h6>
+      <p class="mb-0 opacity-75">@bruno_perini</p>
+    </div>
+    <small class="lh-1"><b>1,899,675</b><br />seguidores</small>
+    <a class="btn btn-outline-primary stretched-link" href="http://www.instagram.com/bruno_perini" target="_blank" role="button"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
+  </li>
+
+
+  <li class="list-group-item d-flex gap-3 py-4 align-items-center">
+    <h6 class="opacity-50">#5</h6>
+    <img src="/assets/imgs/influenciadores/thiagogreis.jpg" alt="profile" width="48" height="48" class="rounded-circle flex-shrink-0" />
+    <div class="flex-fill">
+      <h6 class="mb-0">Thiago Reis</h6>
+      <p class="mb-0 opacity-75">@thiagogreis</p>
+    </div>
+    <small class="lh-1"><b>1,899,675</b><br />seguidores</small>
+    <a class="btn btn-outline-primary stretched-link" href="http://www.instagram.com/thiagogreis" target="_blank" role="button"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
+  </li>
+
+
+  <li class="list-group-item d-flex gap-3 py-4 align-items-center">
+    <h6 class="opacity-50">#6</h6>
+    <img src="/assets/imgs/influenciadores/gustavocerbasi.jpg" alt="profile" width="48" height="48" class="rounded-circle flex-shrink-0" />
+    <div class="flex-fill">
+      <h6 class="mb-0">Gustavo Cervasi</h6>
+      <p class="mb-0 opacity-75">@gustavocerbasi</p>
+    </div>
+    <small class="lh-1"><b>1.505.743</b><br />seguidores</small>
+    <a class="btn btn-outline-primary stretched-link" href="http://www.instagram.com/gustavocerbasi" target="_blank" role="button"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
+  </li>
+
+
+  <li class="list-group-item d-flex gap-3 py-4 align-items-center">
+    <h6 class="opacity-50">#7</h6>
+    <img src="/assets/imgs/influenciadores/cafecomferri.jpg" alt="profile" width="48" height="48" class="rounded-circle flex-shrink-0" />
+    <div class="flex-fill">
+      <h6 class="mb-0">Rafael Ferri</h6>
+      <p class="mb-0 opacity-75">@cafecomferri</p>
+    </div>
+    <small class="lh-1"><b>1.503.289</b><br />seguidores</small>
+    <a class="btn btn-outline-primary stretched-link" href="http://www.instagram.com/cafecomferri" target="_blank" role="button"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
+  </li>
+
+
+  <li class="list-group-item d-flex gap-3 py-4 align-items-center">
+    <h6 class="opacity-50">#8</h6>
+    <img src="/assets/imgs/influenciadores/portstrader.jpg" alt="profile" width="48" height="48" class="rounded-circle flex-shrink-0" />
+    <div class="flex-fill">
+      <h6 class="mb-0">Suriel Ports</h6>
+      <p class="mb-0 opacity-75">@portstrader</p>
+    </div>
+    <small class="lh-1"><b>1.046.931</b><br />seguidores</small>
+    <a class="btn btn-outline-primary stretched-link" href="http://www.instagram.com/portstrader" target="_blank" role="button"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
+  </li>
+
+
+  <li class="list-group-item d-flex gap-3 py-4 align-items-center">
+    <h6 class="opacity-50">#9</h6>
+    <img src="/assets/imgs/influenciadores/brenoperrucho.jpg" alt="profile" width="48" height="48" class="rounded-circle flex-shrink-0" />
+    <div class="flex-fill">
+      <h6 class="mb-0">Breno Perrucho</h6>
+      <p class="mb-0 opacity-75">@brenoperrucho</p>
+    </div>
+    <small class="lh-1"><b>603.787</b><br />seguidores</small>
+    <a class="btn btn-outline-primary stretched-link" href="http://www.instagram.com/brenoperrucho" target="_blank" role="button"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
+  </li>
+
+
+  <li class="list-group-item d-flex gap-3 py-4 align-items-center">
+    <h6 class="opacity-50">#10</h6>
+    <img src="/assets/imgs/influenciadores/nathfinancas.jpg" alt="profile" width="48" height="48" class="rounded-circle flex-shrink-0" />
+    <div class="flex-fill">
+      <h6 class="mb-0">Nathália Rodrigues</h6>
+      <p class="mb-0 opacity-75">@nathfinancas</p>
+    </div>
+    <small class="lh-1"><b>457.160</b><br />seguidores</small>
+    <a class="btn btn-outline-primary stretched-link" href="http://www.instagram.com/nathfinancas" target="_blank" role="button"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
+  </li>
+
+
+</ul>
+
+<p><small class="my-3 text-muted">Última atualização: 09 de julho de 2022</small></p>
+:ET

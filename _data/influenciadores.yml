@@ -1,0 +1,59 @@
+- name:         "Carol"
+  lastname:     "Dias"
+  instagram:
+    profile:    "caroldias"
+    followers:  "6.652.568"
+
+- name:         "Thiago"
+  lastname:     "Nigro"
+  instagram:
+    profile:    "thiago.nigro"
+    followers:  "6.488.097"
+
+- name:         "Nathalia"
+  lastname:     "Arcuri"
+  instagram:
+    profile:    "nathaliaarcuri"
+    followers:  "3.498.979"
+
+- name:         "Bruno"
+  lastname:     "Perini"
+  instagram:
+    profile:    "bruno_perini"
+    followers:  "1,899,675"
+
+- name:         "Thiago"
+  lastname:     "Reis"
+  instagram:
+    profile:    "thiagogreis"
+    followers:  "1,899,675"
+
+- name:         "Gustavo"
+  lastname:     "Cervasi"
+  instagram:
+    profile:    "gustavocerbasi"
+    followers:  "1.505.743"
+
+- name:         "Rafael"
+  lastname:     "Ferri"
+  instagram:
+    profile:    "cafecomferri"
+    followers:  "1.503.289"
+
+- name:         "Suriel"
+  lastname:     "Ports"
+  instagram:
+    profile:    "portstrader"
+    followers:  "1.046.931"
+
+- name:         "Breno"
+  lastname:     "Perrucho"
+  instagram:
+    profile:    "brenoperrucho"
+    followers:  "603.787"
+
+- name:         "Nathália"
+  lastname:     "Rodrigues"
+  instagram:
+    profile:    "nathfinancas"
+    followers:  "457.160"

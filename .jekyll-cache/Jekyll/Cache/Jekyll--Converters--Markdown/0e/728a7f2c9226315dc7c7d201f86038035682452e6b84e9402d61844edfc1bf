@@ -1,0 +1,178 @@
+I" <div class="container my-5">
+  <div class="text-center mx-lg-auto mb-9">
+    <h1 class="display-5 mb-4">Os maiores influenciadores de finanças em um só lugar!</h1>
+    <p class="lead">Investimos nosso tempo para que você possa investir melhor! <br />Encontre aqui os maiores influenciadores digitais de finanças da atualidade no Instagram.</p>
+  </div>
+</div>
+
+<!-- TOP 5 -->
+<h3 class="display-6 mt-5 mb-4">Top 5 mais seguidos no Instagram</h3>
+<div class="row row-cols-1 row-cols-md-5 g-3">
+  
+  <div class="col d-flex">
+    <div class="card card-body">
+      <img class="rounded-circle mb-3 foto" src="/assets/imgs/influenciadores/bruno-perini.jpg" />
+      <h5 class="card-title">Bruno</h5>
+      <h6 class="card-subtitle mb-2 text-muted">Perini</h6>
+      <p class="card-text"><a class="btn btn-outline-primary" href="http://www.instagram.com/bruno_perini" target="_blank" role="button">
+          <i class="fab fa-instagram fa-lg"></i> Instagram
+        </a></p>
+    </div>
+  </div>
+  
+  <div class="col d-flex">
+    <div class="card card-body">
+      <img class="rounded-circle mb-3 foto" src="/assets/imgs/influenciadores/nathalia-arcuri.jpg" />
+      <h5 class="card-title">Nathalia </h5>
+      <h6 class="card-subtitle mb-2 text-muted">Arcuri</h6>
+      <p class="card-text"><a class="btn btn-outline-primary" href="http://www.instagram.com/nathalia-arcuri" target="_blank" role="button">
+          <i class="fab fa-instagram fa-lg"></i> Instagram
+        </a></p>
+    </div>
+  </div>
+  
+  <div class="col d-flex">
+    <div class="card card-body">
+      <img class="rounded-circle mb-3 foto" src="/assets/imgs/influenciadores/charles-wicz.jpg" />
+      <h5 class="card-title">Charles</h5>
+      <h6 class="card-subtitle mb-2 text-muted">Wicz</h6>
+      <p class="card-text"><a class="btn btn-outline-primary" href="http://www.instagram.com/charles-wicz" target="_blank" role="button">
+          <i class="fab fa-instagram fa-lg"></i> Instagram
+        </a></p>
+    </div>
+  </div>
+  
+  <div class="col d-flex">
+    <div class="card card-body">
+      <img class="rounded-circle mb-3 foto" src="/assets/imgs/influenciadores/bernardo-pascowitch.jpg" />
+      <h5 class="card-title">Bernardo</h5>
+      <h6 class="card-subtitle mb-2 text-muted">Pascowitch</h6>
+      <p class="card-text"><a class="btn btn-outline-primary" href="http://www.instagram.com/bernardo-pascowitch" target="_blank" role="button">
+          <i class="fab fa-instagram fa-lg"></i> Instagram
+        </a></p>
+    </div>
+  </div>
+  
+  <div class="col d-flex">
+    <div class="card card-body">
+      <img class="rounded-circle mb-3 foto" src="/assets/imgs/influenciadores/tiago-reis.jpg" />
+      <h5 class="card-title">Tiago</h5>
+      <h6 class="card-subtitle mb-2 text-muted">Reis</h6>
+      <p class="card-text"><a class="btn btn-outline-primary" href="http://www.instagram.com/tiago-reis" target="_blank" role="button">
+          <i class="fab fa-instagram fa-lg"></i> Instagram
+        </a></p>
+    </div>
+  </div>
+  
+</div>
+
+<h3 class="display-6 mt-5 mb-4">Lista de influenciadores</h3>
+<div class="list-group">
+  <ul class="list-group list-group-flush mb-3">
+  
+  
+    <li class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+      <h6 class="mb-0 opacity-50">#1</h6>
+      
+      <img src="/assets/imgs/influenciadores/bruno-perini.jpg" alt="foto de perfil" width="45" height="45" class="rounded-circle flex-shrink-0" />
+      <div class="d-flex gap-2 w-100 justify-content-between">
+        <div>
+          <h5 class="mb-0">Bruno Perini</h5>
+          <p class="mb-0 opacity-75">@bruno_perini</p>
+        </div>
+        <div><a class="btn btn-outline-primary mx-1" href="http://www.instagram.com/bruno_perini" target="_blank" role="button">
+            <i class="fab fa-instagram fa-lg"></i>
+          </a><a class="btn btn-outline-danger mx-1" href="#" role="button">
+            <i class="fab fa-youtube fa-lg"></i>
+          </a></div>
+      </div>
+    </li>
+  
+    <li class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+      <h6 class="mb-0 opacity-50">#2</h6>
+      
+      <img src="/assets/imgs/influenciadores/nathalia-arcuri.jpg" alt="foto de perfil" width="45" height="45" class="rounded-circle flex-shrink-0" />
+      <div class="d-flex gap-2 w-100 justify-content-between">
+        <div>
+          <h5 class="mb-0">Nathalia  Arcuri</h5>
+          <p class="mb-0 opacity-75">@nathalia-arcuri</p>
+        </div>
+        <div><a class="btn btn-outline-primary mx-1" href="http://www.instagram.com/nathalia-arcuri" target="_blank" role="button">
+            <i class="fab fa-instagram fa-lg"></i>
+          </a><a class="btn btn-outline-danger mx-1" href="#" role="button">
+            <i class="fab fa-youtube fa-lg"></i>
+          </a></div>
+      </div>
+    </li>
+  
+    <li class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+      <h6 class="mb-0 opacity-50">#3</h6>
+      
+      <img src="/assets/imgs/influenciadores/charles-wicz.jpg" alt="foto de perfil" width="45" height="45" class="rounded-circle flex-shrink-0" />
+      <div class="d-flex gap-2 w-100 justify-content-between">
+        <div>
+          <h5 class="mb-0">Charles Wicz</h5>
+          <p class="mb-0 opacity-75">@charles-wicz</p>
+        </div>
+        <div><a class="btn btn-outline-primary mx-1" href="http://www.instagram.com/charles-wicz" target="_blank" role="button">
+            <i class="fab fa-instagram fa-lg"></i>
+          </a><a class="btn btn-outline-danger mx-1" href="#" role="button">
+            <i class="fab fa-youtube fa-lg"></i>
+          </a></div>
+      </div>
+    </li>
+  
+    <li class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+      <h6 class="mb-0 opacity-50">#4</h6>
+      
+      <img src="/assets/imgs/influenciadores/bernardo-pascowitch.jpg" alt="foto de perfil" width="45" height="45" class="rounded-circle flex-shrink-0" />
+      <div class="d-flex gap-2 w-100 justify-content-between">
+        <div>
+          <h5 class="mb-0">Bernardo Pascowitch</h5>
+          <p class="mb-0 opacity-75">@bernardo-pascowitch</p>
+        </div>
+        <div><a class="btn btn-outline-primary mx-1" href="http://www.instagram.com/bernardo-pascowitch" target="_blank" role="button">
+            <i class="fab fa-instagram fa-lg"></i>
+          </a><a class="btn btn-outline-danger mx-1" href="#" role="button">
+            <i class="fab fa-youtube fa-lg"></i>
+          </a></div>
+      </div>
+    </li>
+  
+    <li class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+      <h6 class="mb-0 opacity-50">#5</h6>
+      
+      <img src="/assets/imgs/influenciadores/tiago-reis.jpg" alt="foto de perfil" width="45" height="45" class="rounded-circle flex-shrink-0" />
+      <div class="d-flex gap-2 w-100 justify-content-between">
+        <div>
+          <h5 class="mb-0">Tiago Reis</h5>
+          <p class="mb-0 opacity-75">@tiago-reis</p>
+        </div>
+        <div><a class="btn btn-outline-primary mx-1" href="http://www.instagram.com/tiago-reis" target="_blank" role="button">
+            <i class="fab fa-instagram fa-lg"></i>
+          </a><a class="btn btn-outline-danger mx-1" href="#" role="button">
+            <i class="fab fa-youtube fa-lg"></i>
+          </a></div>
+      </div>
+    </li>
+  
+    <li class="list-group-item list-group-item-action d-flex gap-3 py-3" aria-current="true">
+      <h6 class="mb-0 opacity-50">#6</h6>
+      
+      <img src="/assets/imgs/influenciadores/luiz-fernando-roxo.jpg" alt="foto de perfil" width="45" height="45" class="rounded-circle flex-shrink-0" />
+      <div class="d-flex gap-2 w-100 justify-content-between">
+        <div>
+          <h5 class="mb-0">Luiz Fernando Roxo</h5>
+          <p class="mb-0 opacity-75">@tiago-reis</p>
+        </div>
+        <div><a class="btn btn-outline-primary mx-1" href="http://www.instagram.com/tiago-reis" target="_blank" role="button">
+            <i class="fab fa-instagram fa-lg"></i>
+          </a><a class="btn btn-outline-danger mx-1" href="#" role="button">
+            <i class="fab fa-youtube fa-lg"></i>
+          </a></div>
+      </div>
+    </li>
+  
+  </ul>
+</div>
+:ET

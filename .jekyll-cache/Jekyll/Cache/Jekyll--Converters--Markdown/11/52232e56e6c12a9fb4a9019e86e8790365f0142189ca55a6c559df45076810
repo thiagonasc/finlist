@@ -1,0 +1,63 @@
+I"�	<div>
+  <h2 class="mt-4 mb-4">Vídeos destaques</h2>
+</div>
+
+<div class="row row-cols-1 row-cols-md-5 g-4">
+  
+  <div class="col d-flex">
+    <div class="card">
+      <a href="https://www.youtube.com/watch?v=6FpRwAs_fbY" target="_blank" class="stretched-link"><img src="https://img.youtube.com/vi/6FpRwAs_fbY/0.jpg" class="card-img-top" alt="..." /></a>
+      <div class="card-body">
+        <p class="card-text">UMA DAS MAIORES QUEDAS DA MINHA CARTEIRA! | RUMO AO BILHÃO</p>
+        <h5 class="card-title">Primo Rico</h5>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col d-flex">
+    <div class="card">
+      <a href="https://www.youtube.com/watch?v=OxTgBvHgBf4" target="_blank" class="stretched-link"><img src="https://img.youtube.com/vi/OxTgBvHgBf4/0.jpg" class="card-img-top" alt="..." /></a>
+      <div class="card-body">
+        <p class="card-text">6 DICAS PARA CONQUISTAR SEU PRIMEIRO MILHÃO!</p>
+        <h5 class="card-title">Bruno Perini - Você MAIS Rico</h5>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col d-flex">
+    <div class="card">
+      <a href="https://www.youtube.com/watch?v=5phOZrFSdmk" target="_blank" class="stretched-link"><img src="https://img.youtube.com/vi/5phOZrFSdmk/0.jpg" class="card-img-top" alt="..." /></a>
+      <div class="card-body">
+        <p class="card-text">CRISE MUNDIAL Onde investir? Como ganhar dinheiro? Ações, FIIs, (...)</p>
+        <h5 class="card-title">Economista Sincero</h5>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col d-flex">
+    <div class="card">
+      <a href="https://www.youtube.com/watch?v=zpCI2AbAwak" target="_blank" class="stretched-link"><img src="https://img.youtube.com/vi/zpCI2AbAwak/0.jpg" class="card-img-top" alt="..." /></a>
+      <div class="card-body">
+        <p class="card-text">SELIC DE 2% A 7% | O que pode acontecer com o mercado ainda em 2021?</p>
+        <h5 class="card-title">Suno Research</h5>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col d-flex">
+    <div class="card">
+      <a href="https://www.youtube.com/watch?v=05UovWl3hAc" target="_blank" class="stretched-link"><img src="https://img.youtube.com/vi/05UovWl3hAc/0.jpg" class="card-img-top" alt="..." /></a>
+      <div class="card-body">
+        <p class="card-text">O que esperar da bolsa de valores? Quais setores estão descontados? - feat. Rafael Bevilacqua</p>
+        <h5 class="card-title">Papo de Bolsa</h5>
+      </div>
+    </div>
+  </div>
+  
+</div>
+
+<div>
+  <h2 class="mt-4 mb-4">Top 10</h2>
+</div>
+
+:ET
