@@ -9,11 +9,9 @@ web-deploy:
   name: 🎉 Deploy
   runs-on: ubuntu-latest
   steps:
-    - name: Build Jekyll Site
-      env:
-        JEKYLL_ENV: production
-        NODE_ENV: production
-      run: bundle exec jekyll build
+    - name: 🔨 Build Project
+      run:
+        JEKYLL_ENV=production bundle exec jekyll build
     - name: 🚚 Get latest code
       uses: actions/checkout@v3
     - name: FTP Deploy
