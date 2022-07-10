@@ -7,19 +7,11 @@ web-deploy:
   name: 🎉 Deploy
   runs-on: ubuntu-latest
   steps:
-    
     - name: 🚚 Get latest code
       uses: actions/checkout@v3
-
-    - name: Cache gems
-      uses: actions/cache@v1
-      with:
-        path: vendor/gems
-        key: ${{ runner.os }}-build-${{ hashFiles('**/Gemfile.lock') }}
-        restore-keys: |
-          ${{ runner.os }}-build-
-          ${{ runner.os }}-
-    
+    - name: 🔨 Build Project
+      run:
+        JEKYLL_ENV=production bundle exec jekyll build
     - name: FTP Deploy
       uses: SamKirkland/FTP-Deploy-Action@4.3.0
       with:
