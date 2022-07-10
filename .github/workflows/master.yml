@@ -16,6 +16,9 @@ jobs:
         runs:
           using: 'docker'
           image: 'Dockerfile'
+        branding:
+          icon: 'book-open'
+          color: 'white'
 
       - name: FTP Deploy
         uses: SamKirkland/FTP-Deploy-Action@4.3.0
