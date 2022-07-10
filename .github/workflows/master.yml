@@ -34,3 +34,5 @@ web-deploy:
         username:   ${{ secrets.ftp_user }}
         password:   ${{ secrets.ftp_password }}
         local-dir:  ./_site/
+      env:
+        JEKYLL_ENV: production
