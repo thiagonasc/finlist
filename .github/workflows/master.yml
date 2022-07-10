@@ -11,11 +11,11 @@ jobs:
       - name: 🚚 Get latest code
         uses: actions/checkout@v2
 
-      - name: 📂 Sync files
+      - name: FTP Deploy
         uses: SamKirkland/FTP-Deploy-Action@4.3.0
         with:
           server:     ${{ secrets.ftp_host }}
           username:   ${{ secrets.ftp_user }}
           password:   ${{ secrets.ftp_password }}
-          local-dir:  _site/
-          server-dir: site/
+          local-dir:  ./_site/
+          server-dir: public_html/www/
