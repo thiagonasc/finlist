@@ -21,7 +21,7 @@ web-deploy:
           ${{ runner.os }}-
 
     - name: 🔨 Build Project
-      uses: DavidS/jekyll-deploy@
+      uses: DavidS/jekyll-deploy@master
       with:
         build-only: true
       env:
