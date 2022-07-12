@@ -32,8 +32,6 @@ permalink:  /influenciadores/
   {% endfor %}
 </div>
 
-
-
 <h3 class="display-6 mt-5 mb-4">Lista de influenciadores</h3>
 
 <ul class="list-group">
@@ -53,3 +51,5 @@ permalink:  /influenciadores/
   {% assign pos = pos | plus:1 %}
   {% endfor %}
 </ul>
+
+<p class="text-muted mt-2"><small>Última atualização: <b>12 de julho de 2022</b>.</small></p>

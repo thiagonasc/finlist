@@ -1,11 +1,11 @@
-- name:				        "Carol"
-  lastname:	  	      "Dias"
+- name:					"Carol"
+  lastname:				"Dias"
   instagram:
-    profile:		      "caroldias"
-    followers:        "6.6M"
-    followers-full:	  "6.652.568"
+    profile:			"caroldias"
+    followers:			"6.6M"
+    followers-full:		"6.652.568"
 
-- name:				  "Thiago"
+- name:				"Thiago"
   lastname:			"Nigro"
   instagram:
     profile:		"thiago.nigro"
@@ -16,21 +16,21 @@
   lastname:			"Arcuri"
   instagram:
     profile:		"nathaliaarcuri"
-    followers:		"3.4M"
+    followers:		"3.5M"
     followers-full:	"3.498.979"
 
 - name:				"Bruno"
   lastname:			"Perini"
   instagram:
     profile:		"bruno_perini"
-    followers:		"1,8M"
+    followers:		"1,9M"
     followers-full:	"1,899,675"
 
 - name:				"Tiago"
   lastname:			"Reis"
   instagram:
     profile:		"tiagogreis"
-    followers:		"1,8M"
+    followers:		"1,6M"
     followers-full:	"1,899,675"
 
 - name:				"Gustavo"
@@ -58,14 +58,14 @@
   lastname:			"Perrucho"
   instagram:
     profile:		"brenoperrucho"
-    followers:		"603K"
+    followers:		"604K"
     followers-full:	"603.787"
 
 - name:				"Hulisses"
   lastname:			"Dias"
   instagram:
     profile:		"tiohuli"
-    followers:		"558k"
+    followers:		"565k"
     followers-full:	"558.976"
 
 - name:				"Nathália"
