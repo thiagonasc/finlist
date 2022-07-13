@@ -1,18 +1,42 @@
-- name:		"Kinvo"
-  site:		"https://kinvo.com.br"
-  icon:		"kinvo"
 - name:		"Gorila"
-  site:		"https://gorila.com.br/"
   icon:		"gorila"
-- name:		"Trademap"
-  site:		"https://trademap.com.br/"
-  icon:		"trademap"
-- name:		"Real Valor"
-  site:		"https://orealvalor.com.br/"
-  icon:		"realvalor"
-- name:		"SmartBrain"
-  site:		"https://www.smartbrain.com.br/"
-  icon:		"smartbrain"
-- name:		"Fliper"
+  site:		"https://gorila.com.br/"
+  googlePlay: "br.com.gorilainvest.mobileapp"
+  appleStore: "1447950043"
+
+- name:		"IM+"
+  icon:		"im+"
   site:		"https://fliper.app/"
-  icon:		""
+  googlePlay: "com.fliper.app"
+  appleStore: "1488384378"
+
+- name:		"Kinvo"
+  icon:		"kinvo"
+  site:		"https://kinvo.com.br"
+  googlePlay: "com.everestti.kinvo"
+  appleStore: "1327335329"
+
+- name:		"Real Valor"
+  icon:		"realvalor"
+  site:		"https://orealvalor.com.br/"
+  googlePlay: "com.RealValor"
+  appleStore: "1383524306"
+
+- name:		"SmartBrain"
+  icon:		"smartbrain"
+  site:		"https://www.smartbrain.com.br/"
+  googlePlay: "com.smartbrain.advisor"
+  appleStore: "1541637172"
+
+- name:		"Trademap"
+  icon:		"trademap"
+  site:		"https://trademap.com.br/"
+  googlePlay: "valemobi.com.br.trademap"
+  appleStore: "1300692868"
+
+  # https://play.google.com/store/apps/details?id=
+  # https://apps.apple.com/BR/app/id
+
+  # googlePlay: "###"
+
+  # empiricus.com.br.empiricus
