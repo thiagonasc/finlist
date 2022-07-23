@@ -19,7 +19,7 @@ permalink:  /sites/
       <img class="rounded mb-3 foto shadow-sm" src="{{site.baseurl}}/assets/imgs/sites/{{ site.icon }}.jpg" alt="Ícone do site: {{ site.name }}">
       <h5 class="card-title mb-4">{{ site.name }}</h5>
       <p class="card-text">
-        <a class="btn btn-primary" href="{{ site.url }}" target="_blank" role="button">
+        <a class="btn btn-primary stretched-link" href="{{ site.url }}" target="_blank" role="button">
           <i class="fa-solid fa-arrow-up-right-from-square"></i> Site Oficial
         </a>
       </p>

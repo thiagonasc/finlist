@@ -20,7 +20,7 @@ permalink:  /corretoras/
       <img class="rounded mb-3 foto shadow-sm" src="{{corretora.baseurl}}/assets/imgs/corretoras/{{ corretora.logo }}.jpg" alt="Ícone do site: {{ corretora.name }}">
       <h5 class="card-title mb-4">{{ corretora.name }}</h5>
       <p class="card-text">
-        <a class="btn btn-primary" href="{{ corretora.url }}" target="_blank" role="button">
+        <a class="btn btn-primary stretched-link" href="{{ corretora.url }}" target="_blank" role="button">
           <i class="fa-solid fa-arrow-up-right-from-square"></i> Site Oficial
         </a>
       </p>
@@ -39,7 +39,7 @@ permalink:  /corretoras/
       <img class="rounded mb-3 foto shadow-sm" src="{{corretora.baseurl}}/assets/imgs/corretoras/{{ corretora.logo }}.jpg" alt="Ícone do site: {{ corretora.name }}">
       <h5 class="card-title mb-4">{{ corretora.name }}</h5>
       <p class="card-text">
-        <a class="btn btn-primary" href="{{ corretora.url }}" target="_blank" role="button">
+        <a class="btn btn-primary stretched-link" href="{{ corretora.url }}" target="_blank" role="button">
           <i class="fa-solid fa-arrow-up-right-from-square"></i> Site Oficial
         </a>
       </p>
@@ -58,7 +58,7 @@ permalink:  /corretoras/
       <img class="rounded mb-3 foto shadow-sm" src="{{corretora.baseurl}}/assets/imgs/corretoras/{{ corretora.logo }}.jpg" alt="Ícone do site: {{ corretora.name }}">
       <h5 class="card-title mb-4">{{ corretora.name }}</h5>
       <p class="card-text">
-        <a class="btn btn-primary" href="{{ corretora.url }}" target="_blank" role="button">
+        <a class="btn btn-primary stretched-link" href="{{ corretora.url }}" target="_blank" role="button">
           <i class="fa-solid fa-arrow-up-right-from-square"></i> Site Oficial
         </a>
       </p>

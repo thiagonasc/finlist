@@ -25,7 +25,7 @@
 - name: "Foxbit"
   logo: foxbit
   url: "https://foxbit.com.br/"
-  categoria: "internacional"
+  categoria: "criptomoedas"
 - name: "Genial Investimentos"
   logo: genialinvestimentos
   url: "https://www.genialinvestimentos.com.br/"
@@ -65,7 +65,7 @@
 - name: "Passfolio"
   logo: passfolio
   url: "https://www.passfolio.com/"
-  categoria: "criptomoedas"
+  categoria: "internacional"
 - name: "Rico"
   logo: rico
   url: "https://www.rico.com.vc/"
