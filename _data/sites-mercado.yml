@@ -1,0 +1,42 @@
+- name: "B3"
+  icon: b3
+  url:  "https://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/fundos-de-investimentos/fii/fiis-listados/"
+- name: "Benzinga"
+  icon: benzinga
+  url: "https://www.benzinga.com/"
+- name: "Bloomberg"
+  icon: bloomberg
+  url: "https://www.bloomberg.com/"
+- name: "Clube FII"
+  icon: clubefii
+  url: "https://www.clubefii.com.br/"
+- name: "FIIs"
+  icon: fiis
+  url: "https://fiis.com.br/"
+- name: "Fundamentei"
+  icon: fundamentei
+  url: "https://fundamentei.com/"
+- name: "Funds Explorer"
+  icon: fundsexplorer
+  url: "https://www.fundsexplorer.com.br/"
+- name: "Fundamentus"
+  icon: fundamentus
+  url:  "https://fundamentus.com.br/"
+- name: "InfoMoney"
+  icon: infomoney
+  url:  "https://www.infomoney.com.br/"
+- name: "Google Finanças"
+  icon: googlefinancas
+  url: "https://www.google.com/finance/?hl=pt"
+- name: "Investing.com"
+  icon: investing
+  url:  "https://br.investing.com/"
+- name: "Status Invest"
+  icon: statusinvest
+  url: "https://statusinvest.com.br/fundos-imobiliarios"
+- name: "Suno Analítica"
+  icon: sunoanalitica
+  url:  "https://www.suno.com.br/acoes/"
+- name: "Yahoo Finance"
+  icon: yahoofinance
+  url: "https://finance.yahoo.com/"

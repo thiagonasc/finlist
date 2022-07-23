@@ -1,12 +1,12 @@
-- name:		"Gorila"
-  icon:		"gorila"
-  site:		"https://gorila.com.br/"
+- name: "Gorila"
+  icon: "gorila"
+  site: "https://gorila.com.br/"
   googlePlay: "br.com.gorilainvest.mobileapp"
   appleStore: "1447950043"
 
-- name:		"IM+"
-  icon:		"im+"
-  site:		"https://fliper.app/"
+- name: "IM+"
+  icon: "im+"
+  site: "https://fliper.app/"
   googlePlay: "com.fliper.app"
   appleStore: "1488384378"
 
@@ -28,15 +28,13 @@
   googlePlay: "com.smartbrain.advisor"
   appleStore: "1541637172"
 
-- name:		"Trademap"
+- name:		"TradeMap"
   icon:		"trademap"
   site:		"https://trademap.com.br/"
   googlePlay: "valemobi.com.br.trademap"
   appleStore: "1300692868"
 
-  # https://play.google.com/store/apps/details?id=
-  # https://apps.apple.com/BR/app/id
-
-  # googlePlay: "###"
-
-  # empiricus.com.br.empiricus
+# https://play.google.com/store/apps/details?id=
+# https://apps.apple.com/BR/app/id
+# googlePlay: "###"
+# empiricus.com.br.empiricus

@@ -11,10 +11,9 @@ permalink:  /aplicativos/
   </div>
 </div>
 
-<!-- TOP 5 -->
 <h3 class="display-6 mt-5 mb-4">Controle de investimentos</h3>
 <div class="row row-cols-1 row-cols-lg-5 row-cols-md-3 g-3">
-  {% for app in site.data.aplicativos %}
+  {% for app in site.data.apps-controle %}
   <div class="col d-flex">
     <div class="card card-body mb-2">
       <img class="rounded mb-3 foto shadow-sm" src="{{site.baseurl}}/assets/imgs/aplicativos/{{ app.icon }}.png" alt="Ícone do app {{ app.name }}">
@@ -25,12 +24,12 @@ permalink:  /aplicativos/
         </a>
       </p>
       <p class="card-text">
-        <a class="btn btn-outline-primary" href="https://play.google.com/store/apps/details?id={{ app.googlePlay }}" target="_blank" role="button">
+        <a class="btn btn-sm btn-outline-primary" href="https://play.google.com/store/apps/details?id={{ app.googlePlay }}" target="_blank" role="button">
           <i class="fa-brands fa-google-play"></i> Google Play
         </a>
       </p>
       <p class="card-text">
-        <a class="btn btn-outline-primary" href="https://apps.apple.com/BR/app/id/{{ app.appleStore }}" target="_blank" role="button">
+        <a class="btn btn-sm btn-outline-primary" href="https://apps.apple.com/BR/app/id/{{ app.appleStore }}" target="_blank" role="button">
           <i class="fa-brands fa-apple"></i> Apple Store
         </a>
       </p>

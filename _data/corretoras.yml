@@ -1,0 +1,80 @@
+- name: "Ágora"
+  logo: agora
+  url: "https://www.agorainvestimentos.com.br/"
+  categoria: "nacional"
+- name: "Avenue"
+  logo: avenue
+  url: "https://avenue.com/"
+  categoria: "internacional"
+- name: "Binance"
+  logo: binance
+  url: "https://www.binance.com/pt-BR"
+  categoria: "criptomoedas"
+- name: "BTG Pactual"
+  logo: btgpactual
+  url: "https://www.btgpactualdigital.com/"
+  categoria: "nacional"
+- name: "Clear Corretora"
+  logo: clearcorretora
+  url: "https://clear.com.br/"
+  categoria: "nacional"
+- name: "CM Capital"
+  logo: cmcapital
+  url: "https://cmcapital.com.br/"
+  categoria: "nacional"
+- name: "Foxbit"
+  logo: foxbit
+  url: "https://foxbit.com.br/"
+  categoria: "internacional"
+- name: "Genial Investimentos"
+  logo: genialinvestimentos
+  url: "https://www.genialinvestimentos.com.br/"
+  categoria: "nacional"
+- name: "Guide"
+  logo: guide
+  url: "https://www.guide.com.br/"
+  categoria: "nacional"
+- name: "Inter"
+  logo: inter
+  url: "https://www.bancointer.com.br/"
+  categoria: "nacional"
+- name: "Íon Itaú"
+  logo: ionitau
+  url: "https://ion.itau/"
+  categoria: "nacional"
+- name: "Mercado Bitcoin"
+  logo: mercadobitcoin
+  url: "https://www.mercadobitcoin.com.br/"
+  categoria: "criptomoedas"
+- name: "Modalmais"
+  logo: modalmais
+  url: "https://www.modalmais.com.br/"
+  categoria: "nacional"
+- name: "Necton Investimentos"
+  logo: nectoninvestimentos
+  url: "https://www.necton.com.br/"
+  categoria: "nacional"
+- name: "Nu Invest"
+  logo: nuinvest
+  url: "https://www.nuinvest.com.br/"
+  categoria: "nacional"
+- name: "Órama"
+  logo: orama
+  url: "https://www.orama.com.br/"
+  categoria: "nacional"
+- name: "Passfolio"
+  logo: passfolio
+  url: "https://www.passfolio.com/"
+  categoria: "criptomoedas"
+- name: "Rico"
+  logo: rico
+  url: "https://www.rico.com.vc/"
+  categoria: "nacional"
+- name: "Toro Investimentos"
+  logo: toroinvestimentos
+  url: "https://www.toroinvestimentos.com.br/"
+  categoria: "nacional"
+- name: "XP Investimentos"
+  logo: xpinvestimentos
+  url: "https://www.xpi.com.br/"
+  categoria: "nacional"
