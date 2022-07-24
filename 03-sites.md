@@ -1,6 +1,7 @@
 ---
 layout:     default
 title:      "Sites"
+description:  "Os melhores sites de finanças em um só lugar!"
 permalink:  /sites/
 ---
 

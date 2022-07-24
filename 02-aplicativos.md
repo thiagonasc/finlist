@@ -1,6 +1,7 @@
 ---
 layout:     default
 title:      "Aplicativos"
+description:  "Os melhores aplicativos de finanças em um só lugar!"
 permalink:  /aplicativos/
 ---
 

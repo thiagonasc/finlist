@@ -1,6 +1,7 @@
 ---
 layout:     default
 title:      "Influenciadores"
+description:  "Os maiores influenciadores de finanças em um só lugar!"
 permalink:  /influenciadores/
 ---
 

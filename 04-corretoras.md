@@ -1,6 +1,7 @@
 ---
 layout:     default-subnav
 title:      "Corretoras"
+description:  "As melhores corretoras de investimentos em um só lugar!"
 permalink:  /corretoras/
 ---
 

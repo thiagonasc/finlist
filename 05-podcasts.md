@@ -1,6 +1,7 @@
 ---
 layout:     default
 title:      "PodCasts"
+description: "Os melhores podcasts de finanças e investimentos em um só lugar!"
 permalink:  /podcasts/
 ---
 
