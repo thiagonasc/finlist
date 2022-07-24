@@ -1,0 +1,44 @@
+# - name: ""
+#   subtitle: ""
+#   icon: ""
+#   spotify: ""
+
+- name: "Boletos pagos com Nath Finanças"
+  subtitle: "Spotify Studios"
+  img: "boletos_pagos_nath_financas"
+  spotify: "https://open.spotify.com/show/1TfuegM11MvtDz1ZKvyKnD?si=b86ae2063c234a2e"
+
+- name: "Drops de Inteligência Financeira"
+  subtitle: "Gustavo Cerbasi"
+  img: "drops_inteligencia_financeira"
+  spotify: "https://open.spotify.com/show/2VqGZVZmUnEqieAp7kwPKO?si=e2f8ce33faf74123"
+
+- name: "G1 Educação Financeira"
+  subtitle: "G1"
+  img: "g1_educacao_financeira"
+  spotify: "https://open.spotify.com/show/0oMsB6YtktK3QNf63UwrC9?si=7edf7f3d14124166"
+
+- name: "Minuto Invest"
+  subtitle: "Exame"
+  img: "minuto_invest"
+  spotify: "https://open.spotify.com/show/5Rz1BA2dunSMGNibjBfuRS?si=19dd674bb14a43f4"
+
+- name: "Os Economistas"
+  subtitle: "Grupo Primo"
+  img: "os_economistas"
+  spotify: "https://open.spotify.com/show/2VhPmYjfLVpXCNUKxcyQj9?si=03047ca8b9484093"
+
+- name: "Os Sócios PodCast"
+  subtitle: "Grupo Primo"
+  img: "os_socios_podcast"
+  spotify: "https://open.spotify.com/show/17bkR8GX6FmyKYvhQv4nOi?si=453b5308052c4ba4"
+
+- name: "PoupeCast"
+  subtitle: "Me Poupe!"
+  img: "poupecast"
+  spotify: "https://open.spotify.com/show/0UR7uvXIwzbEiSLZlrp9Na?si=bbae47abb1d64c7e"
+
+- name: "Stock Pickers"
+  subtitle: "InfoMoney"
+  img: "stock_pickers"
+  spotify: "https://open.spotify.com/show/0OKark671tCbUyszCSs5Ff?si=1489150db59d432c"
