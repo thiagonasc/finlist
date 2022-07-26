@@ -7,8 +7,8 @@
 	],
 	"sourcesContent": [
 		"@import \"estilo\";",
-		"html, body {\n\tbackground-color: #f6f9fc;\n\t/*pensar na fonte poppins*/\n\tfont-family: \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";\n}\n.card {\n\tborder-radius: 10px;\n\tborder: 0px;\n}\n\n.foto {\n\twidth: 120px;\n\theight: auto;\n}\n\n.table {\n\tborder-collapse: collapse;\n  \tborder-radius: 5px;\n  \toverflow: hidden;\n}\n\n.list-group-item {\n\tborder-color: #eee;\n}"
+		"html, body {\n\tbackground-color: #f6f9fc;\n\t/*pensar na fonte poppins*/\n\tfont-family: \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";\n}\n\n.foto {\n\twidth: 120px;\n\theight: auto;\n}\n\n.table {\n\tborder-collapse: collapse;\n  \tborder-radius: 5px;\n  \toverflow: hidden;\n}"
 	],
 	"names": [],
-	"mappings": "ACAA,AAAA,IAAI,EAAE,IAAI,CAAC,EACV,gBAAgB,EAAE,OAAO,EACzB,2BAA2B,CAC3B,WAAW,EAAE,kJAAkJ,GAC/J;;AACD,AAAA,KAAK,CAAC,EACL,aAAa,EAAE,IAAI,EACnB,MAAM,EAAE,GAAG,GACX;;AAED,AAAA,KAAK,CAAC,EACL,KAAK,EAAE,KAAK,EACZ,MAAM,EAAE,IAAI,GACZ;;AAED,AAAA,MAAM,CAAC,EACN,eAAe,EAAE,QAAQ,EACvB,aAAa,EAAE,GAAG,EAClB,QAAQ,EAAE,MAAM,GAClB;;AAED,AAAA,gBAAgB,CAAC,EAChB,YAAY,EAAE,IAAI,GAClB"
+	"mappings": "ACAA,AAAA,IAAI,EAAE,IAAI,CAAC,EACV,gBAAgB,EAAE,OAAO,EACzB,2BAA2B,CAC3B,WAAW,EAAE,kJAAkJ,GAC/J;;AAED,AAAA,KAAK,CAAC,EACL,KAAK,EAAE,KAAK,EACZ,MAAM,EAAE,IAAI,GACZ;;AAED,AAAA,MAAM,CAAC,EACN,eAAe,EAAE,QAAQ,EACvB,aAAa,EAAE,GAAG,EAClB,QAAQ,EAAE,MAAM,GAClB"
 }

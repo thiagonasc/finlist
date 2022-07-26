@@ -1,0 +1,107 @@
+- titulo: "Carteira do Aposentado"
+  responsavel: "Charles Wicz"
+  instagram: "charles.wicz"
+  atualizacao: 24/07/2022
+  fonte: "YouTube"
+  acoes:
+    - ticker: BBAS3
+      segmento: "Bancos"
+      percentualClasse: "15,86"
+      percentualCarteira: "7,13"
+    - ticker: BBSE3
+      segmento: "Seguradoras"
+      percentualClasse: "12,76"
+      percentualCarteira: "5,74"
+    - ticker: EGIE
+      segmento: "Energia Elétrica"
+      percentualClasse: "6,05"
+      percentualCarteira: "2,72"
+    - ticker: ENBR3
+      segmento: "Energia Elétrica"
+      percentualClasse: "7,93"
+      percentualCarteira: "3,56"
+    - ticker: ITSA4
+      segmento: "Bancos"
+      percentualClasse: "11,48"
+      percentualCarteira: "5,16"
+    - ticker: ITUB4
+      segmento: "Bancos"
+      percentualClasse: "6,67"
+      percentualCarteira: "3,00"
+    - ticker: SAPR4
+      segmento: "Água e Saneamento"
+      percentualClasse: "12,11"
+      percentualCarteira: "5,45"
+    - ticker: TAEE11
+      segmento: "Energia Elétrica"
+      percentualClasse: "9,21"
+      percentualCarteira: "4,14"
+    - ticker: TRPL4
+      segmento: "Energia Elétrica"
+      percentualClasse: "9,88"
+      percentualCarteira: "4,44"
+    - ticker: VIVT3
+      segmento: "Telecomunicações"
+      percentualClasse: "8,05"
+      percentualCarteira: "3,62"
+  fiis:
+    - ticker: BCFF11
+      setor: Papel
+      percentualClasse: "6,95"
+      percentualCarteira: "3,46"
+    - ticker: BTAL11
+      setor: Tijolo
+      percentualClasse: "4,53"
+      percentualCarteira: "2,25"
+    - ticker: BTRA11
+      setor: Misto
+      percentualClasse: "3,96"
+      percentualCarteira: "1,97"
+    - ticker: CVBI11
+      setor: Papel
+      percentualClasse: "7,61"
+      percentualCarteira: "3,79"
+    - ticker: FIIB11
+      setor: Tijolo
+      percentualClasse: "3,98"
+      percentualCarteira: "1,98"
+    - ticker: GGRC11
+      setor: Tijolo
+      percentualClasse: "2,69"
+      percentualCarteira: "1,34"
+    - ticker: HFOF11
+      setor: Papel
+      percentualClasse: "6,43"
+      percentualCarteira: "3,20"
+    - ticker: HSML11
+      setor: Tijolo
+      percentualClasse: "8,86"
+      percentualCarteira: "4,41"
+    - ticker: HTMX11
+      setor: Tijolo
+      percentualClasse: "8,83"
+      percentualCarteira: "4,39"
+    - ticker: KNCR11
+      setor: Papel
+      percentualClasse: "12,91"
+      percentualCarteira: "6,42"
+    - ticker: MXRF11
+      setor: Papel
+      percentualClasse: "7,92"
+      percentualCarteira: "3,94"
+    - ticker: RECR11
+      setor: Papel
+      percentualClasse: "6,30"
+      percentualCarteira: "3,14"
+    - ticker: SDIL11
+      setor: Tijolo
+      percentualClasse: "7,42"
+      percentualCarteira: "3,69"
+    - ticker: VINO11
+      setor: Tijolo
+      percentualClasse: "3,95"
+      percentualCarteira: "1,97"
+    - ticker: VISC11
+      setor: Tijolo
+      percentualClasse: "7,66"
+      percentualCarteira: "3,81"

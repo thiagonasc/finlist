@@ -17,7 +17,7 @@ permalink:  /corretoras/
   {% for corretora in site.data.corretoras %}
   {% if corretora.categoria == "nacional" %}
   <div class="col d-flex">
-    <div class="card card-body mb-2">
+    <div class="card border-light card-body mb-2">
       <img class="rounded mb-3 foto shadow-sm" src="{{corretora.baseurl}}/assets/imgs/corretoras/{{ corretora.logo }}.jpg" alt="Ícone do site: {{ corretora.name }}">
       <h5 class="card-title mb-4">{{ corretora.name }}</h5>
       <p class="card-text">
@@ -36,7 +36,7 @@ permalink:  /corretoras/
   {% for corretora in site.data.corretoras %}
   {% if corretora.categoria == "internacional" %}
   <div class="col d-flex">
-    <div class="card card-body mb-2">
+    <div class="card border-light card-body mb-2">
       <img class="rounded mb-3 foto shadow-sm" src="{{corretora.baseurl}}/assets/imgs/corretoras/{{ corretora.logo }}.jpg" alt="Ícone do site: {{ corretora.name }}">
       <h5 class="card-title mb-4">{{ corretora.name }}</h5>
       <p class="card-text">
@@ -55,7 +55,7 @@ permalink:  /corretoras/
   {% for corretora in site.data.corretoras %}
   {% if corretora.categoria == "criptomoedas" %}
   <div class="col d-flex">
-    <div class="card card-body mb-2">
+    <div class="card border-light card-body mb-2">
       <img class="rounded mb-3 foto shadow-sm" src="{{corretora.baseurl}}/assets/imgs/corretoras/{{ corretora.logo }}.jpg" alt="Ícone do site: {{ corretora.name }}">
       <h5 class="card-title mb-4">{{ corretora.name }}</h5>
       <p class="card-text">

@@ -16,7 +16,7 @@ permalink:  /podcasts/
 <div class="row row-cols-1 row-cols-lg-5 row-cols-md-3 g-3">
   {% for podcast in site.data.podcasts %}
   <div class="col d-flex">
-    <div class="card card-body mb-2">
+    <div class="card border-light card-body mb-2">
       <img class="rounded mb-3 foto shadow-sm" src="{{site.baseurl}}/assets/imgs/podcasts/{{ podcast.img }}.jpg" alt="Ícone do app {{ podcast.name }}">
       <h5 class="card-title mb-4">{{ podcast.name }}<br><small class="text-muted">{{ podcast.subtitle }}</small></h5>
       <p class="card-text">

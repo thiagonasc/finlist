@@ -17,7 +17,7 @@ permalink:  /livros/
 <div class="row row-cols-1 row-cols-lg-5 row-cols-md-3 g-3">
   {% for livro in site.data.livros %}
   <div class="col d-flex">
-    <div class="card card-body mb-2">
+    <div class="card border-light card-body mb-2">
 	  <img class="rounded mb-3 foto shadow-sm" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ livro.asin }}&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=finlist-20&language=pt_BR" alt="Capa do livro: {{ livro.name }}" />
       <h5 class="card-title mb-4">{{ livro.titulo }}<br><small class="text-muted">{{ livro.subtitulo }}</small></h5>
 	  <p>Por: {{ livro.autor }}</p>

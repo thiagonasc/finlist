@@ -16,7 +16,7 @@ permalink:  /aplicativos/
 <div class="row row-cols-1 row-cols-lg-5 row-cols-md-3 g-3">
   {% for app in site.data.apps-controle %}
   <div class="col d-flex">
-    <div class="card card-body mb-2">
+    <div class="card border-light card-body mb-2">
       <img class="rounded mb-3 foto shadow-sm" src="{{site.baseurl}}/assets/imgs/aplicativos/{{ app.icon }}.png" alt="Ícone do app {{ app.name }}">
       <h5 class="card-title mb-4">{{ app.name }}</h5>
       <p class="card-text">

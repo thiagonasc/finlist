@@ -3,10 +3,6 @@ html, body {
 	/*pensar na fonte poppins*/
 	font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
-.card {
-	border-radius: 10px;
-	border: 0px;
-}
 
 .foto {
 	width: 120px;
@@ -17,8 +13,4 @@ html, body {
 	border-collapse: collapse;
   	border-radius: 5px;
   	overflow: hidden;
-}
-
-.list-group-item {
-	border-color: #eee;
 }

@@ -17,7 +17,7 @@ permalink:  /influenciadores/
 <div class="row row-cols-1 row-cols-md-5 g-3">
   {% for influenciador in site.data.influenciadores limit:5 %}
   <div class="col d-flex">
-    <div class="card card-body">
+    <div class="card card-body border-light">
       <img class="rounded-circle mb-3 foto" src="{{site.baseurl}}/assets/imgs/influenciadores/{{ influenciador.instagram.profile }}.jpg" alt="Imagem de perfil - {{ influenciador.name }}">
       <h5 class="card-title">{{ influenciador.name }} {{ influenciador.lastname }}</h5>
       <h6 class="card-subtitle mb-2 text-muted">@{{ influenciador.instagram.profile }}</h6>

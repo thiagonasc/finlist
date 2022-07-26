@@ -16,7 +16,7 @@ permalink:  /sites/
 <div class="row row-cols-1 row-cols-lg-5 row-cols-md-3 g-3">
   {% for site in site.data.sites-mercado %}
   <div class="col d-flex">
-    <div class="card card-body mb-2">
+    <div class="card border-light card-body mb-2">
       <img class="rounded mb-3 foto shadow-sm" src="{{site.baseurl}}/assets/imgs/sites/{{ site.icon }}.jpg" alt="Ícone do site: {{ site.name }}">
       <h5 class="card-title mb-4">{{ site.name }}</h5>
       <p class="card-text">
