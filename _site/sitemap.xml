@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/influenciadores/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/aplicativos/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/sites/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/corretoras/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/podcasts/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/livros/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/carteiras/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/sobre/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+<lastmod>2021-08-24T22:36:58-03:00</lastmod>
+</url>
+</urlset>

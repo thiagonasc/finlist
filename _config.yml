@@ -1,9 +1,17 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.finlist.com.br/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "FinList" # the name of your site, e.g. ACME Corp.
+author: "ThiagoNasc.com - Thiago Nascimento"
+logo: "/android-chrome-512x512.png"
+locale: "pt_BR"
 
 sass:
    sass_dir: _sass/
+
+# Custom FinList
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # # Exclude from processing.
 # exclude:
